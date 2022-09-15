@@ -1,2 +1,7 @@
 # dim-input
-QLik Sense Extension - Basic input to search in dimensions with wildcards
+A QLik Sense extension that provided a basic input to search in dimensions with wildcards
+
+
+# Choose your dimesion
+
+# Research your keywords
