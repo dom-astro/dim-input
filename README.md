@@ -3,10 +3,10 @@ A QLik Sense extension that provided a basic input to search in dimensions with 
 
 
 # Choose your dimensions
-<img src="Dimensions.png" />
+<img src="img/Dimensions.png" />
 
 # Research your keywords
-<img src="Search.png" />
+<img src="img/Search.png" />
 
 # Original authors
 [github.com/dom-astro](https://github.com/dom-astro)
