@@ -6,7 +6,7 @@ A Qlik Sense extension that provided a basic input to search in dimensions with 
 ![Dimensions](https://github.com/dom-astro/dim-input/blob/main/img/Dimensions.png)
 
 # Research your keywords
-[Search](https://github.com/dom-astro/dim-input/blob/main/img/Search.png)
+![Search](https://github.com/dom-astro/dim-input/blob/main/img/Search.png)
 
 
 # Original authors
