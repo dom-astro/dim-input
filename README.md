@@ -3,13 +3,14 @@ A Qlik Sense extension that provided a basic input to search in dimensions with 
 
 
 # Choose your dimensions
-<img src="Dimensions.png" />
+![Dimensions](https://github.com/dom-astro/dim-input/blob/main/img/Dimensions.png)
 
 # Research your keywords
-<img src="Search.png" />
+[Search](https://github.com/dom-astro/dim-input/blob/main/img/Search.png)
+
 
 # Original authors
-[github.com/dom-astro](https://github.com/dom-astro)
+![github.com/dom-astro](https://github.com/dom-astro)
 
 # License
 Released under the [MIT License](LICENSE).
